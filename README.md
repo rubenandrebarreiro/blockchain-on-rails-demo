@@ -1,1 +1,1 @@
-# blockchain-on-rails-demo
+# Blockchain on Rails - DEMO
